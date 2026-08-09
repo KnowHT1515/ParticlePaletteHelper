@@ -102,3 +102,7 @@ Dependencies:
 ```
 
 The skin mod itself does not need to ship a code DLL just for these particle palettes.
+
+## License
+
+ExtendedIdle is released under the [MIT License](LICENSE).
