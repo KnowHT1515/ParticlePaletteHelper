@@ -1,0 +1,13 @@
+Palette:
+  - profile:
+      # characters exists, but character_id is omitted: applies to all Player character IDs.
+      characters: {}
+
+      Self:
+        - "#112233"
+        - "#223344"
+        - "#334455"
+        - "#445566"
+        - "#556677"
+
+      # Another and LevelUp are omitted, so those effects stay vanilla.

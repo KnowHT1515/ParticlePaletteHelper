@@ -1,0 +1,7 @@
+- Name: ParticlePaletteHelper
+  Version: 1.0.0
+  Author: KnowHT
+  DLL: Code/ParticlePaletteHelper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.0.0

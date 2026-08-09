@@ -1,0 +1,54 @@
+Palette:
+  - profile:
+      characters:
+        character_id:
+          - silvy
+          - silvy_no_backpack
+
+      Self:
+        - "#996622"
+        - "#CC8833"
+        - "#FFBB44"
+        - "#FFCC77"
+        - "#FFDDAA"
+
+      Another:
+        - "#338899"
+        - "#44BBCC"
+        - "#55EEFF"
+        - "#88EEFF"
+        - "#BBFFFF"
+
+      LevelUp:
+        - "#116644"
+        - "#228866"
+        - "#22AA77"
+        - "#22DD99"
+        - "#55DDAA"
+
+  - profile:
+      characters:
+        character_id:
+          - rucia
+          - rucia_no_backpack
+
+      Self:
+        - "#338899"
+        - "#44BBCC"
+        - "#55EEFF"
+        - "#88EEFF"
+        - "#BBFFFF"
+
+      Another:
+        - "#996622"
+        - "#CC8833"
+        - "#FFBB44"
+        - "#FFCC77"
+        - "#FFDDAA"
+
+      LevelUp:
+        - "#116644"
+        - "#228866"
+        - "#22AA77"
+        - "#22DD99"
+        - "#55DDAA"

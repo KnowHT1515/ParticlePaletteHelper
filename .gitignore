@@ -1,0 +1,28 @@
+# Build outputs
+/bin/
+/obj/
+/build/
+/Code/
+/artifacts/
+
+# Local build configuration
+/local.props
+
+# Packaged releases and compiled binaries
+*.zip
+*.dll
+*.pdb
+
+# IDE and editor state
+/.vs/
+/.vscode/
+/.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
